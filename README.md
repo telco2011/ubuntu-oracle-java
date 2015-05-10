@@ -14,4 +14,5 @@ This Dockerfile creates an ubuntu image with Oracle7jdk installed inside.
 
 ##VERSIONS
 * empty(latest): latest ubuntu with latest java version 
-* 14.10jdk7u80: ubuntu with java 7u80
+* 14.10jre7u80: ubuntu with java 7u80
+* 14.10jre8u45: ubuntu with java 8u45
