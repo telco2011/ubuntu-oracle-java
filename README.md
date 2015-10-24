@@ -1,5 +1,5 @@
 # ubuntu-oracle-java
-This Dockerfile creates an ubuntu image with Oracle7jdk installed inside.
+This Dockerfile creates an ubuntu image with Oracle jdk installed inside.
 
 ## Use ubuntu-oracle-java docker image
 
