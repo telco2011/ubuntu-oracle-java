@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:15.10
 MAINTAINER David Lopez <davidlopez.david@gmail.com>
 
 # Configure ubuntu
